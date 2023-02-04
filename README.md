@@ -1,5 +1,13 @@
 # Bitmask Decorator
 
+## Install
+
+```
+yarn add bitmask-decorator
+```
+
+## What is this?
+
 Suppose you are creating a game that uses pawns. Each token has four boolean features. Something like: *high* or *low*, *light* or *dark*, *round* or *square*, *with hole* or *without hole*.
 If you use a boolean, each characteristic will require a byte.
 
