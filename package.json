@@ -1,6 +1,6 @@
 {
   "name": "bitmask-decorator",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "TypeScript decorators to facilitate storing of boolean features as bitwise.",
   "main": "index.js",
   "scripts": {

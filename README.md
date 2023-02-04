@@ -28,7 +28,7 @@ import {
   bitflag as flag,
   bitwise,
   Bitmask,
-} from "bitmask";
+} from "bitmask-decorator/lib/main";
 
 interface Test extends BitwiseMask {}
 

@@ -1,5 +1,2 @@
 # Dependency directories
 node_modules/
-
-# Build generated files
-lib
