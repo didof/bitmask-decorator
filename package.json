@@ -25,5 +25,13 @@
   },
   "directories": {
     "lib": "lib"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/didof/bitmask-decorator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/didof/bitmask-decorator/issues"
+  },
+  "homepage": "https://github.com/didof/bitmask-decorator#readme"
 }
