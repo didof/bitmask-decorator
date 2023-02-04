@@ -5,7 +5,7 @@ export default defineConfig({
     globals: true,
     coverage: {
       clean: true,
-      reporter: ["text", "html"],
+      reporter: ["text", "html", "lcov"],
     },
   },
 });
