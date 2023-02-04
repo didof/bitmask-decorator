@@ -8,5 +8,6 @@ export declare const b: {
     w6: number;
     w7: number;
     w8: number;
+    wAll: number;
 };
 //# sourceMappingURL=powerOfTwoGenerator.d.ts.map
