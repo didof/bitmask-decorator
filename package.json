@@ -6,6 +6,7 @@
   "types": "dist/index.d.ts",
   "scripts": {
     "test": "vitest",
+    "test:coverage": "vitest --coverage",
     "build": "tsup src",
     "dev": "tsup src --watch",
     "prepublish": "npm run build"
